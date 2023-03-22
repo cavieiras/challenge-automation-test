@@ -1,0 +1,1 @@
+{"uuid":"88fa7484-5985-44ef-99b1-22a26f3d67fd","name":"bookingDateInvalid_CheckInBeforeNow()","children":["12f25e2f-b364-46a6-86fd-581d0fd9f9f2"],"befores":[{"name":"setRequest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1679498789074,"stop":1679498789075}],"afters":[],"start":1679498789070,"stop":1679498789096}
